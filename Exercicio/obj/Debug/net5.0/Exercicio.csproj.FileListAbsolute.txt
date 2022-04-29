@@ -1,0 +1,16 @@
+E:\ProjetosCast\Banco\Exercicio\obj\Debug\net5.0\Exercicio.csproj.AssemblyReference.cache
+E:\ProjetosCast\Banco\Exercicio\obj\Debug\net5.0\Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjetosCast\Banco\Exercicio\obj\Debug\net5.0\Exercicio.AssemblyInfoInputs.cache
+E:\ProjetosCast\Banco\Exercicio\obj\Debug\net5.0\Exercicio.AssemblyInfo.cs
+E:\ProjetosCast\Banco\Exercicio\obj\Debug\net5.0\Exercicio.csproj.CoreCompileInputs.cache
+E:\ProjetosCast\Banco\Exercicio\bin\Debug\net5.0\Exercicio.exe
+E:\ProjetosCast\Banco\Exercicio\bin\Debug\net5.0\Exercicio.deps.json
+E:\ProjetosCast\Banco\Exercicio\bin\Debug\net5.0\Exercicio.runtimeconfig.json
+E:\ProjetosCast\Banco\Exercicio\bin\Debug\net5.0\Exercicio.runtimeconfig.dev.json
+E:\ProjetosCast\Banco\Exercicio\bin\Debug\net5.0\Exercicio.dll
+E:\ProjetosCast\Banco\Exercicio\bin\Debug\net5.0\Exercicio.pdb
+E:\ProjetosCast\Banco\Exercicio\obj\Debug\net5.0\Exercicio.dll
+E:\ProjetosCast\Banco\Exercicio\obj\Debug\net5.0\refint\Exercicio.dll
+E:\ProjetosCast\Banco\Exercicio\obj\Debug\net5.0\Exercicio.pdb
+E:\ProjetosCast\Banco\Exercicio\obj\Debug\net5.0\Exercicio.genruntimeconfig.cache
+E:\ProjetosCast\Banco\Exercicio\obj\Debug\net5.0\ref\Exercicio.dll

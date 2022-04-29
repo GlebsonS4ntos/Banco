@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ThbthV5PU3IosPjZlTvkqO3pLdRMLtZlP6jlBWjYXoztwdn99KTSYv3qtnA2N8+8jNInO5zTK926P29x3lKVHg==",
+  "success": true,
+  "projectFilePath": "E:\\ProjetosCast\\Banco\\Exercicio\\Exercicio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\glebs\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
